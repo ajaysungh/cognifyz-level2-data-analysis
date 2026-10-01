@@ -1,0 +1,1 @@
+Place the original Cognifyz restaurant dataset CSV in this folder before running the notebooks.
